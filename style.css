@@ -1,3 +1,5 @@
 .center {display: block; margin-left: auto; margin-right: auto; overflow-x: hidden;}
 body {background-color: gray;}
+.discord {position: absolute; left: 40px; top: 40px}
+div {flex-basis: 100%;height: 100px;margin-bottom: 0.5rem;}
 @media (min-width: 600px) {div {flex-basis: 33%;}}
