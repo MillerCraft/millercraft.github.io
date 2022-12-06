@@ -1,2 +1,4 @@
 .center {display: block; margin-left: auto; margin-right: auto; overflow-x: hidden;}
 body {background-color: gray;}
+.discord {position: absolute; left: 40px; top: 40px}
+@media (min-width: 600px) {.discord {width: 50%;}}
